@@ -22,7 +22,7 @@
 #include "WiFiEsp.h"
 #include <WiFiEspUdp.h>
 char ssid[] = "MIKHAILS";     // your network SSID (name)
-char pwd[] = "ZhabaEstKomarov";  // your network password
+char pwd[] = "";  // your network password
 
 // Emulate Serial1 on pins 7/6 if not present
 //#ifndef HAVE_HWSERIAL1
